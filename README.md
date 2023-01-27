@@ -4,7 +4,9 @@ Spec Rick and Morty TV script lightly spoofing _The Social Network_ (2010) among
 
 ## Usage
 
-This script is written in the [Fountain](https://fountain.io/) format. VSCode has an [excellent extension](https://marketplace.visualstudio.com/items?itemName=piersdeseilligny.betterfountain) that makes it easy to write and compile `.fountain` files to `.pdf`.
+This script is written in the [Fountain](https://fountain.io/) format. VSCode has an [excellent extension](https://marketplace.visualstudio.com/items?itemName=piersdeseilligny.betterfountain) that makes it easy to write and compile `.fountain` files to `.pdf`. 
+
+If you're new to reading/writing screenplays, [this](https://www.masterclass.com/articles/what-is-a-screenplay-formatting-tips-and-tricks) is a decent starting place.
 
 ## Contributing
 
