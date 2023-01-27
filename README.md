@@ -18,6 +18,6 @@ If any of this does not make sense, feel free to DM me.
 
 ### Why not just use FinalDraft, CeltX, WriterDuet? 
 
-1) I'm addicted to [vim shortcuts](https://www.youtube.com/watch?v=bR5bZriaOVU&ab_channel=Linode) which basically give me editing superpowers.
+1) I'm addicted to [vim shortcuts](https://www.youtube.com/watch?v=bR5bZriaOVU&ab_channel=Linode) which basically give you editing superpowers.
 2) I like using git/github for source control so I can easily delete and add stuff and still revert back to it later (without making a million versions of my scripts)
 3) I'm a huge hipster.
