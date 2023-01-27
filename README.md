@@ -24,4 +24,5 @@ If any of this does not make sense, feel free to DM me.
 
 1) I'm addicted to [vim shortcuts](https://www.youtube.com/watch?v=bR5bZriaOVU&ab_channel=Linode) which basically give you text editing superpowers.
 2) I like using git/github for source control so I can comfortably delete and add stuff and still revert back to it later (without making a million separate versions of my scripts)
-3) I'm a huge hipster.
+3) Fountain forces you to focus on story first, and formatting later.
+4) I'm a huge hipster.
